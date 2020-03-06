@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reeneingee.dev-anton.engineer/sitemap.xml
